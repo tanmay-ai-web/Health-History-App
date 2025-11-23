@@ -1,0 +1,10 @@
+# Python
+venv/
+_pycache_/
+
+# Node
+client/node_modules/
+.DS_Store
+
+# Secrets
+.env
